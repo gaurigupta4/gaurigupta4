@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi 👋 I'm Gauri Gupta
 
-<!--
-**gaurigupta4/gaurigupta4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BSC.IT  Graduate
 
-Here are some ideas to get you started:
+📊 Aspiring Data Analyst
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Skills
+
+- Microsoft Excel
+- SQL
+- Tableau
+- Power BI
+- Python
+
+---
+
+## Currently Learning
+
+- Advanced Excel
+- SQL
+- Tableau
+- Python
+
+---
+
+## Projects
+
+Coming Soon...
+
+---
+
+## Certifications
+
+- Deloitte Data Analytics Virtual Internship
+- TCSiON -Young professional
+
+---
+
+## Connect With Me
+
+LinkedIn:www.linkedin.com/in/gauri-gupta-a7a191335
+Email:gaurigupta0943@gmail.com
