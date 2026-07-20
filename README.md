@@ -40,5 +40,6 @@ Coming Soon...
 
 ## Connect With Me
 
-LinkedIn:www.linkedin.com/in/gauri-gupta-a7a191335
+LinkedIn:www.linkedin.com/in/gauri-gupta-a7a191335   
+
 Email:gaurigupta0943@gmail.com
